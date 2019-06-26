@@ -28,7 +28,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/CodeBook.md at master · UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera</title>
+  <title>Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/README.txt at master · UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera</title>
     <meta name="description" content="Notes and Quiz Answers of Getting And Cleaning Data Coursera Course - UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars2.githubusercontent.com/u/7246712?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" /><meta property="og:url" content="https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" /><meta property="og:description" content="Notes and Quiz Answers of Getting And Cleaning Data Coursera Course - UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDE5NDE5OTg5OjYzNDYxYTFjODFmYjVjZjczZDM3ZWQ1NDIzZjAzN2QzMzFlMDE1OWIzZTE0MTI5ZmYwZmE2YWVlN2RlYjBkODM=--1f70ab8dc7a6f864e78c7bd230991450de4b2aae">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDE5NDE5OTg5OjIyZTVhN2Y0ZTcxOGM4ZTdmNzNjZTBjMGY3NzY3Y2NiMTU1MTVkNTJlYjA1MjkwZjM3NWFmNTVkMDM2MDdmZjQ=--b193708ff36d71c3a97851d93ee68f6cf71e3598">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="D050:30E97:154B6A:20D81C:5D13DDCA" data-pjax-transient>
+  <meta name="request-id" content="D050:30E97:154DBE:20E1FD:5D13DDD9" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D050:30E97:154B6A:20D81C:5D13DDCA" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="39190576" /><meta name="octolytics-actor-login" content="ncarlota" /><meta name="octolytics-actor-hash" content="357e0afb7ba49ce29f6d44843680b639d6abe402a5ebdd2b70c9b9430e19eec0" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D050:30E97:154DBE:20E1FD:5D13DDD9" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="39190576" /><meta name="octolytics-actor-login" content="ncarlota" /><meta name="octolytics-actor-hash" content="357e0afb7ba49ce29f6d44843680b639d6abe402a5ebdd2b70c9b9430e19eec0" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="ncarlota">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="Mzc2ZTgxZTg5NmFiYTI1Mjk1Njc0NjYxZjk0MDkzMDkyYjg4ZTM3ZjNmZmU1YzE2MjI5ODEzOTk1NTIzZjliZnx7InJlbW90ZV9hZGRyZXNzIjoiODguMjEwLjk1Ljk0IiwicmVxdWVzdF9pZCI6IkQwNTA6MzBFOTc6MTU0QjZBOjIwRDgxQzo1RDEzRERDQSIsInRpbWVzdGFtcCI6MTU2MTU4MzA2NSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="M2UxZDE2NGRjZmRlMjExZTYzMWI4OTA5NmViMjJmNGIyMGY4NDgyNTI4MTk1ZGRhOGE4MmYyODMxMWVmODViY3x7InJlbW90ZV9hZGRyZXNzIjoiODguMjEwLjk1Ljk0IiwicmVxdWVzdF9pZCI6IkQwNTA6MzBFOTc6MTU0REJFOjIwRTFGRDo1RDEzREREOSIsInRpbWVzdGFtcCI6MTU2MTU4MzA3MSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PULL_PANDA_HOMEPAGE,NOTIFY_ON_BLOCK,RELATED_ISSUES,DISPLAY_COMMENTER_FULL_NAME">
 
@@ -87,7 +87,7 @@
   <meta name="octolytics-dimension-user_id" content="7246712" /><meta name="octolytics-dimension-user_login" content="UtkarshPathrabe" /><meta name="octolytics-dimension-repository_id" content="25675637" /><meta name="octolytics-dimension-repository_nwo" content="UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="25675637" /><meta name="octolytics-dimension-repository_network_root_nwo" content="UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/CodeBook.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/README.txt" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -158,7 +158,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=uOFlfXoVkriH4iy6DVx37vm9nbzmbZqxAS9/DWAgOR3l24XbD6J9MD3Ml/zfFbuL0fsP1/9mnSAbjigB2eOE8A=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=zkauL2UFa//7qFVT1SpKGImJ/FDrxQ74IzYQZf8qcZuTfE6JELKEd0GG7hUHY4Z9oc9uO/LOCWk5l0dpRunMdg=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -309,7 +309,7 @@
       <img class="avatar" src="https://avatars3.githubusercontent.com/u/39190576?s=40&amp;v=4" width="20" height="20" alt="@ncarlota" />
       ncarlota
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Na0WtF8SuTDxeAilrniFZp9aF7uUsm2M8UXuK2YuYMA9x1OFMdGan6OSpIWadtEvTtXwTqCnSmQZ6/A04tQnRw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="7AuKrm98eGb/UqUIqtYMOJWXzJyQHt6lhYpavyJUdh3kYc+fAb9bya24CSie2FhxRBgraaQL+U1tJESgpq4xmg==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -403,7 +403,7 @@
     border
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
-    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit " aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:7246712,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:39190576,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154B6A:20D81C:5D13DDCA&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;}}" data-hydro-click-hmac="c3fde9399f600652cd2eab678acadd5f81da44d18b86c7ec31aa763980c19c52">
+    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit " aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:7246712,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:39190576,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154DBE:20E1FD:5D13DDD9&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/README.txt&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;}}" data-hydro-click-hmac="55c01aa55c528b3226a88bb52672882a598123f576f3e77198a495a201a4cb56">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -429,7 +429,7 @@
         </div>
       </div>
 </summary>    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="qZVocbU/j4A7TvhNRkyRBUG+xhDU/6v5CKFJo+WATrG8Wq4f/Ue1gEyhpJLG6/7vmHm5NFB9giWt0bI3AP9QIg==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="ABAMFKifIgzMIxA83Xu4NdrOk6FE8SAJsAKKWpv0efwV38p64OcYDLvMTONd3NffAwnshcBzCdUVcnHOfotnbw==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -549,17 +549,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-06-26T22:34:25+01:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-06-26T22:34:31+01:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-06-26T23:04:25+01:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-06-26T23:04:31+01:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-06-27T02:04:25+01:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-06-27T02:04:31+01:00">
             in 4 hours
           </button>
         </li>
@@ -608,7 +608,7 @@
     <div role="none" class="dropdown-divider"></div>
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Vw1YhHchxP/YXaj7xw/4p5Y7dXbOQlmetG63CoDKnFFfZx21GeLnUIq3BNvzAazuR7SSg/pXfnZcwKkVBDDb1g==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="djGnmVv+uorCeyuLAwOdffUpO2qMtklu/GsYQrseKcZ+W+KoNT2ZJZCRh6s3Dck0JKbcn7ijboYUxQZdP+RuQQ==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
@@ -660,10 +660,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="klCpPDBQosk1sdLGKt+k+NwaZ+H7gZKja6k4AyzaVllhSM0v4s/b/3gJfqBdATHG58cyrrPThpMUzhQAwPLiRw==" />      <input type="hidden" name="repository_id" value="25675637">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Mq2JvcHf1FtyLze+6iWEE2mDAlMaERvbLXT1ykO26zvBte2uE0CtbT+Xm9id+xEtUl5XHFJDD+tSE9nJr55fJQ==" />      <input type="hidden" name="repository_id" value="25675637">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:25675637,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154B6A:20D81C:5D13DDCA&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;,&quot;user_id&quot;:39190576}}" data-hydro-click-hmac="3be9f915bed32c0290dbb78a03af6e0eef1d936dfe474cf9da5018c14e47cba8" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:25675637,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154DBE:20E1FD:5D13DDD9&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/README.txt&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;,&quot;user_id&quot;:39190576}}" data-hydro-click-hmac="a36e256f1efbf38b7d080f3200f0f4aed42c88f4963b679e4089a3b654087f51" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
           </span>
@@ -734,18 +734,18 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZPdYrV2BdOFqMBj58ChqcD7+7nE8TXIu8ceciIuNJvRf6PyjzIiRnIbxs2gvm8OFN2RxsEpMlg5L6TNcb3t1Mg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Y6MTFBDzP4n+AdvqecN04AKSYKDR+OJ56R1KJsCxD/NYvLcagfra9BLAcHumcN0VCwj/Yaf5BllTM+XyJEdcNQ==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:25675637,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154B6A:20D81C:5D13DDCA&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;,&quot;user_id&quot;:39190576}}" data-hydro-click-hmac="64e158d0019cd3335f254f2af8587b77b7228c76bf41d065f3d03a1d5c098183" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:25675637,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154DBE:20E1FD:5D13DDD9&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/README.txt&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;,&quot;user_id&quot;:39190576}}" data-hydro-click-hmac="d0042a688a47da1e6d7964e21c5f83426af3022a8da7f1815794868075307434" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/stargazers"
            aria-label="1 user starred this repository">
            1
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="iy1Dqr+egXby46ubrAOq9Fj3fCmDllpot6mXPx/tpOkCe7OufkesQdqnS4DL0oUUTZfAzCHIcYWCAPmYDjLabw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bgtVtZSUFmd8eQQGIBq8n7Bx12A/T5Wyx4F14Hv+QXbnXaWxVU07UFQ95B1Hy5N/pRFrhZ0Rvl/yKBtHaiE/8A==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:25675637,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154B6A:20D81C:5D13DDCA&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;,&quot;user_id&quot;:39190576}}" data-hydro-click-hmac="a55e75659b2da6c55db3790ae921a6f298ad6302c2b2e33bee26ed85764463de" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:25675637,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154DBE:20E1FD:5D13DDD9&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/README.txt&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;,&quot;user_id&quot;:39190576}}" data-hydro-click-hmac="8acd894077c0c656cc509f6f267d26f1cd3092fd60f9df9fd130fa74065452e0" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/stargazers"
            aria-label="1 user starred this repository">
@@ -756,8 +756,8 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="6leVAu0TTYOG5J4EPB4CVTFxtsYJpk7EOhEwwJHyzIAIEqOvSj5BXqM5l02yDRJa/opMgALwbHMCm+Ic2mBEgA==" />
-            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:25675637,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154B6A:20D81C:5D13DDCA&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;,&quot;user_id&quot;:39190576}}" data-hydro-click-hmac="a1ea85f35c368496c895555cdb55e48790f4433000f9f2636d00df9b5871dc5b" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera to your account" aria-label="Fork your own copy of UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="hRtp0EsimoO+Gsd9FKOUhBR1P+t5m0Qfogwn662X6BZnXl997A+WXpvHzjSasISL247FrXLNZqiahvU35gVgFg==" />
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:25675637,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154DBE:20E1FD:5D13DDD9&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/README.txt&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;,&quot;user_id&quot;:39190576}}" data-hydro-click-hmac="6411769898821f41bdf87e0ec48ba7413e8846b3c5e3e1133fc74aff89cc71fb" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera to your account" aria-label="Fork your own copy of UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
 </button></form>
     <a href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/network/members" class="social-count"
@@ -892,9 +892,9 @@
 
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/97cb33d6222b308ff8646ebef2f3f63afb9448a1/UCI%20HAR%20Dataset/CodeBook.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/97cb33d6222b308ff8646ebef2f3f63afb9448a1/UCI%20HAR%20Dataset/README.txt">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:ac7714c580f279d1a0aec828cf390bf6 -->
+    <!-- blob contrib key: blob_contributors:v21:6c93b556c213cc241233ac926a3edc78 -->
       
 
     <div class="d-flex flex-items-start flex-shrink-0 mb-2 flex-column flex-md-row">
@@ -909,7 +909,7 @@
     <span class="css-truncate-target">master</span>
   </summary>
 
-  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/ref-list/master/UCI%20HAR%20Dataset/CodeBook.md?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/ref-list/master/UCI%20HAR%20Dataset/README.txt?source_action=show&amp;source_controller=blob" preload>
     <include-fragment class="select-menu-loading-overlay anim-pulse">
       <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
     </include-fragment>
@@ -923,13 +923,13 @@
                 data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value="UCI HAR Dataset/CodeBook.md" class="btn btn-sm BtnGroup-item">
+          <clipboard-copy value="UCI HAR Dataset/README.txt" class="btn btn-sm BtnGroup-item">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera"><span>Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset"><span>UCI HAR Dataset</span></a></span><span class="separator">/</span><strong class="final-path">CodeBook.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera"><span>Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset"><span>UCI HAR Dataset</span></a></span><span class="separator">/</span><strong class="final-path">README.txt</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
@@ -939,7 +939,7 @@
               data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value="UCI HAR Dataset/CodeBook.md" class="btn btn-sm BtnGroup-item">
+        <clipboard-copy value="UCI HAR Dataset/README.txt" class="btn btn-sm BtnGroup-item">
           Copy path
         </clipboard-copy>
       </div>
@@ -947,7 +947,7 @@
 
 
 
-    <include-fragment src="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/contributors/master/UCI%20HAR%20Dataset/CodeBook.md" class="Box Box--condensed commit-loader">
+    <include-fragment src="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/contributors/master/UCI%20HAR%20Dataset/README.txt" class="Box Box--condensed commit-loader">
       <div class="Box-body bg-blue-light f6">
         Fetching contributors&hellip;
       </div>
@@ -966,17 +966,17 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
-      46 lines (24 sloc)
+      71 lines (46 sloc)
       <span class="file-info-divider"></span>
-    2.77 KB
+    4.28 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/raw/master/UCI%20HAR%20Dataset/CodeBook.md">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blame/master/UCI%20HAR%20Dataset/CodeBook.md">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/commits/master/UCI%20HAR%20Dataset/CodeBook.md">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/raw/master/UCI%20HAR%20Dataset/README.txt">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blame/master/UCI%20HAR%20Dataset/README.txt">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/commits/master/UCI%20HAR%20Dataset/README.txt">History</a>
     </div>
 
 
@@ -988,13 +988,13 @@
                 <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
             </a>
 
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/edit/master/UCI%20HAR%20Dataset/CodeBook.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Boo+xKh7e5HXESL03vuMnAryMtVkMl04ixklzvLpRPUtXqPIIcjSZ0MpMvCc6VHs7wlj3sV0EMUnmHgJHMGLkA==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/edit/master/UCI%20HAR%20Dataset/README.txt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="8oxh6OCaP3TKdSKTFV9PuzLw1XBU9h83oIyhF8JjIGcBVFenQhaOxKKnRLJRYIfCNzvmO4Meli3mnMCIoXNcHQ==" />
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
                 aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/delete/master/UCI%20HAR%20Dataset/CodeBook.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="R9PvE3zYRNqbhwV8avXeaCNP3bwX02h/L/+zB9YeeqrOXsu+UaeijuGHDRbWxxp8IkS+oit798wsWUkSZ+dzsQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/delete/master/UCI%20HAR%20Dataset/README.txt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="zB2nALbYGgJ18obIwZIrW0dG7V7hdEujA2A+yUJOHm3bN13ses05e2HHYAg9/7EcPrGp5patk+gdyhs1lJKzHQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1007,57 +1007,330 @@
 
 
       
-  <div id="readme" class="Box-body readme blob instapaper_body js-code-block-container">
-    <article class="markdown-body entry-content p-3 p-md-6" itemprop="text"><h1><a id="user-content-course-project-code-book" class="anchor" aria-hidden="true" href="#course-project-code-book"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Course Project Code Book</h1>
-<p>Source of the original data: <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" rel="nofollow">https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</a></p>
-<p>Original description: <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones" rel="nofollow">http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones</a></p>
-<p>The attached R script (run_analysis.R) performs the following to clean up the data:</p>
-<ul>
-<li>
-<p>Merges the training and test sets to create one data set, namely train/X_train.txt with test/X_test.txt, the result of which is a 10299x561 data frame, as in the original description ("Number of Instances: 10299" and "Number of Attributes: 561"), train/subject_train.txt with test/subject_test.txt, the result of which is a 10299x1 data frame with subject IDs, and train/y_train.txt with test/y_test.txt, the result of which is also a 10299x1 data frame with activity IDs.</p>
-</li>
-<li>
-<p>Reads features.txt and extracts only the measurements on the mean and standard deviation for each measurement. The result is a 10299x66 data frame, because only 66 out of 561 attributes are measurements on the mean and standard deviation. All measurements appear to be floating point numbers in the range (-1, 1).</p>
-</li>
-<li>
-<p>Reads activity_labels.txt and applies descriptive activity names to name the activities in the data set:</p>
-<pre><code>  walking  
-  
-  walkingupstairs  
-  
-  walkingdownstairs  
-  
-  sitting  
-  
-  standing  
-  
-  laying  
-</code></pre>
-</li>
-<li>
-<p>The script also appropriately labels the data set with descriptive names: all feature names (attributes) and activity names are converted to lower case, underscores and brackets () are removed. Then it merges the 10299x66 data frame containing features with 10299x1 data frames containing activity labels and subject IDs. The result is saved as merged_clean_data.txt, a 10299x68 data frame such that the first column contains subject IDs, the second column activity names, and the last 66 columns are measurements. Subject IDs are integers between 1 and 30 inclusive. The names of the attributes are similar to the following:</p>
-<pre><code>  tbodyacc-mean-x   
-  
-  tbodyacc-mean-y   
-  
-  tbodyacc-mean-z   
-  
-  tbodyacc-std-x  
-  
-  tbodyacc-std-y  
-  
-  tbodyacc-std-z  
-  
-  tgravityacc-mean-x  
-  
-  tgravityacc-mean-y  
-</code></pre>
-</li>
-<li>
-<p>Finally, the script creates a 2nd, independent tidy data set with the average of each measurement for each activity and each subject. The result is saved as data_set_with_the_averages.txt, a 180x68 data frame, where as before, the first column contains subject IDs, the second column contains activity names (see below), and then the averages for each of the 66 attributes are in columns 3...68. There are 30 subjects and 6 activities, thus 180 rows in this data set with averages.</p>
-</li>
-</ul>
-</article>
+
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text ">
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">==================================================================</td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">Human Activity Recognition Using Smartphones Dataset</td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">Version 1.0</td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">==================================================================</td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.</td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">Smartlab - Non Linear Complex Systems Laboratory</td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">DITEN - Università degli Studi di Genova.</td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">Via Opera Pia 11A, I-16145, Genoa, Italy.</td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">activityrecognition@smartlab.ws</td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">www.smartlab.ws</td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">==================================================================</td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. </td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain. See &#39;features_info.txt&#39; for more details. </td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">For each record it is provided:</td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">======================================</td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.</td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">- Triaxial Angular velocity from the gyroscope. </td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">- A 561-feature vector with time and frequency domain variables. </td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">- Its activity label. </td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">- An identifier of the subject who carried out the experiment.</td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">The dataset includes the following files:</td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">=========================================</td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">- &#39;README.txt&#39;</td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">- &#39;features_info.txt&#39;: Shows information about the variables used on the feature vector.</td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">- &#39;features.txt&#39;: List of all features.</td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">- &#39;activity_labels.txt&#39;: Links the class labels with their activity name.</td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">- &#39;train/X_train.txt&#39;: Training set.</td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">- &#39;train/y_train.txt&#39;: Training labels.</td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">- &#39;test/X_test.txt&#39;: Test set.</td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">- &#39;test/y_test.txt&#39;: Test labels.</td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">The following files are available for the train and test data. Their descriptions are equivalent. </td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">- &#39;train/subject_train.txt&#39;: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. </td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">- &#39;train/Inertial Signals/total_acc_x_train.txt&#39;: The acceleration signal from the smartphone accelerometer X axis in standard gravity units &#39;g&#39;. Every row shows a 128 element vector. The same description applies for the &#39;total_acc_x_train.txt&#39; and &#39;total_acc_z_train.txt&#39; files for the Y and Z axis. </td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">- &#39;train/Inertial Signals/body_acc_x_train.txt&#39;: The body acceleration signal obtained by subtracting the gravity from the total acceleration. </td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line">- &#39;train/Inertial Signals/body_gyro_x_train.txt&#39;: The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. </td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line">Notes: </td>
+      </tr>
+      <tr>
+        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line">======</td>
+      </tr>
+      <tr>
+        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line">- Features are normalized and bounded within [-1,1].</td>
+      </tr>
+      <tr>
+        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line">- Each feature vector is a row on the text file.</td>
+      </tr>
+      <tr>
+        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
+        <td id="LC60" class="blob-code blob-code-inner js-file-line">For more information about this dataset contact: activityrecognition@smartlab.ws</td>
+      </tr>
+      <tr>
+        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
+        <td id="LC61" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
+        <td id="LC62" class="blob-code blob-code-inner js-file-line">License:</td>
+      </tr>
+      <tr>
+        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
+        <td id="LC63" class="blob-code blob-code-inner js-file-line">========</td>
+      </tr>
+      <tr>
+        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
+        <td id="LC64" class="blob-code blob-code-inner js-file-line">Use of this dataset in publications must be acknowledged by referencing the following publication [1] </td>
+      </tr>
+      <tr>
+        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
+        <td id="LC66" class="blob-code blob-code-inner js-file-line">[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012</td>
+      </tr>
+      <tr>
+        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
+        <td id="LC67" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
+        <td id="LC68" class="blob-code blob-code-inner js-file-line">This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the authors or their institutions for its use or misuse. Any commercial use is prohibited.</td>
+      </tr>
+      <tr>
+        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
+        <td id="LC69" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
+        <td id="LC70" class="blob-code blob-code-inner js-file-line">Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.</td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1" aria-label="Inline file action toolbar">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm5 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM13 7.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/></svg>
+    </summary>
+    <details-menu>
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
+        <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
+        <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blame/97cb33d6222b308ff8646ebef2f3f63afb9448a1/UCI%20HAR%20Dataset/README.txt">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
@@ -1072,19 +1345,6 @@
         <button type="submit" class="btn" data-close-dialog>Go</button>
 </form>    </details-dialog>
   </details>
-
-    <div class="Popover anim-scale-in js-tagsearch-popover"
-     hidden data-tagsearch-url="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/find-symbols"
-     data-tagsearch-ref="master"
-     data-tagsearch-path="UCI HAR Dataset/CodeBook.md"
-     data-tagsearch-lang="Markdown"
-     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:25675637,&quot;ref&quot;:&quot;master&quot;,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154B6A:20D81C:5D13DDCA&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;,&quot;user_id&quot;:39190576}}"
-     data-hydro-click-hmac="99a4c6a6c06bea37244fdc809bec5f3dd79f9af1dac06e624dcbeac52c781152">
-  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mx-auto Box box-shadow-large">
-    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto">
-    </div>
-  </div>
-</div>
 
 
 
@@ -1102,7 +1362,7 @@
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.41407s from unicorn-68886457ff-kztjp">GitHub</span>, Inc.</li>
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.46976s from unicorn-7d77f877fd-9bv48">GitHub</span>, Inc.</li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
