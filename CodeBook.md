@@ -28,20 +28,20 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/CodeBook.md at master · UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera</title>
-    <meta name="description" content="Notes and Quiz Answers of Getting And Cleaning Data Coursera Course - UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera">
+  <title>Getting-and-Cleaning-Data-Week4-Assignment/CodeBook.md at master · ncarlota/Getting-and-Cleaning-Data-Week4-Assignment</title>
+    <meta name="description" content="Contribute to ncarlota/Getting-and-Cleaning-Data-Week4-Assignment development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
-    <meta name="twitter:image:src" content="https://avatars2.githubusercontent.com/u/7246712?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" /><meta name="twitter:description" content="Notes and Quiz Answers of Getting And Cleaning Data Coursera Course - UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" />
-    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/7246712?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" /><meta property="og:url" content="https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" /><meta property="og:description" content="Notes and Quiz Answers of Getting And Cleaning Data Coursera Course - UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" />
+    <meta name="twitter:image:src" content="https://avatars2.githubusercontent.com/u/39155886?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="ncarlota/Getting-and-Cleaning-Data-Week4-Assignment" /><meta name="twitter:description" content="Contribute to ncarlota/Getting-and-Cleaning-Data-Week4-Assignment development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/39155886?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="ncarlota/Getting-and-Cleaning-Data-Week4-Assignment" /><meta property="og:url" content="https://github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment" /><meta property="og:description" content="Contribute to ncarlota/Getting-and-Cleaning-Data-Week4-Assignment development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDE5NDE5OTg5OjYzNDYxYTFjODFmYjVjZjczZDM3ZWQ1NDIzZjAzN2QzMzFlMDE1OWIzZTE0MTI5ZmYwZmE2YWVlN2RlYjBkODM=--1f70ab8dc7a6f864e78c7bd230991450de4b2aae">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDE5NDE5OTg5OjlmNzk3YWUwMTFlYjFmMzZiNDVmODBjODc5ZDExZjI3M2JkM2UzM2RhNWI0NzVmNDRhMDVkMWZkZWRhNDdiMWY=--9364f3f341be66b37e97baf66858585d096fdaab">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="D050:30E97:154B6A:20D81C:5D13DDCA" data-pjax-transient>
+  <meta name="request-id" content="D050:30E97:14CF5A:200F37:5D13DCB3" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D050:30E97:154B6A:20D81C:5D13DDCA" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="39190576" /><meta name="octolytics-actor-login" content="ncarlota" /><meta name="octolytics-actor-hash" content="357e0afb7ba49ce29f6d44843680b639d6abe402a5ebdd2b70c9b9430e19eec0" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D050:30E97:14CF5A:200F37:5D13DCB3" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="39190576" /><meta name="octolytics-actor-login" content="ncarlota" /><meta name="octolytics-actor-hash" content="357e0afb7ba49ce29f6d44843680b639d6abe402a5ebdd2b70c9b9430e19eec0" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="ncarlota">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="Mzc2ZTgxZTg5NmFiYTI1Mjk1Njc0NjYxZjk0MDkzMDkyYjg4ZTM3ZjNmZmU1YzE2MjI5ODEzOTk1NTIzZjliZnx7InJlbW90ZV9hZGRyZXNzIjoiODguMjEwLjk1Ljk0IiwicmVxdWVzdF9pZCI6IkQwNTA6MzBFOTc6MTU0QjZBOjIwRDgxQzo1RDEzRERDQSIsInRpbWVzdGFtcCI6MTU2MTU4MzA2NSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="ODFmNjk3NmRhY2Y2ZGFhNDA0YjQzMzAzY2I3OWJiNWY3NDRjOTc1YTc2M2E3YTZjOWU1ZWU1MGFiZDEwZTJmYXx7InJlbW90ZV9hZGRyZXNzIjoiODguMjEwLjk1Ljk0IiwicmVxdWVzdF9pZCI6IkQwNTA6MzBFOTc6MTRDRjVBOjIwMEYzNzo1RDEzRENCMyIsInRpbWVzdGFtcCI6MTU2MTU4MjgwMiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PULL_PANDA_HOMEPAGE,NOTIFY_ON_BLOCK,RELATED_ISSUES,DISPLAY_COMMENTER_FULL_NAME">
 
@@ -80,14 +80,14 @@
   <meta http-equiv="x-pjax-version" content="d075ed00096401ccde84159f4c8abc30">
   
 
-      <link href="https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/commits/master.atom" rel="alternate" title="Recent Commits to Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera:master" type="application/atom+xml">
+      <link href="https://github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/commits/master.atom" rel="alternate" title="Recent Commits to Getting-and-Cleaning-Data-Week4-Assignment:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera git https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera.git">
+  <meta name="go-import" content="github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment git https://github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment.git">
 
-  <meta name="octolytics-dimension-user_id" content="7246712" /><meta name="octolytics-dimension-user_login" content="UtkarshPathrabe" /><meta name="octolytics-dimension-repository_id" content="25675637" /><meta name="octolytics-dimension-repository_nwo" content="UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="25675637" /><meta name="octolytics-dimension-repository_network_root_nwo" content="UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="39155886" /><meta name="octolytics-dimension-user_login" content="ncarlota" /><meta name="octolytics-dimension-repository_id" content="190748537" /><meta name="octolytics-dimension-repository_nwo" content="ncarlota/Getting-and-Cleaning-Data-Week4-Assignment" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="190748537" /><meta name="octolytics-dimension-repository_network_root_nwo" content="ncarlota/Getting-and-Cleaning-Data-Week4-Assignment" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/CodeBook.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/blob/master/CodeBook.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -144,7 +144,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="25675637" data-scoped-search-url="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/search" data-unscoped-search-url="/search" action="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="190748537" data-scoped-search-url="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/search" data-unscoped-search-url="/search" action="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
       <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -158,7 +158,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=uOFlfXoVkriH4iy6DVx37vm9nbzmbZqxAS9/DWAgOR3l24XbD6J9MD3Ml/zfFbuL0fsP1/9mnSAbjigB2eOE8A=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=ZvLIdwERmp5oaDd8tkl5MeKuBxgGpPsD66mKPowtl6U7yCjRdKZ1FtJGjDpkALVUyuiVcx+v/JLxCN0yNe4qSA=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -309,7 +309,7 @@
       <img class="avatar" src="https://avatars3.githubusercontent.com/u/39190576?s=40&amp;v=4" width="20" height="20" alt="@ncarlota" />
       ncarlota
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Na0WtF8SuTDxeAilrniFZp9aF7uUsm2M8UXuK2YuYMA9x1OFMdGan6OSpIWadtEvTtXwTqCnSmQZ6/A04tQnRw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="uXHarduQMQRonsC9AsmmWhA2k6o4KnlA2EpHNjsWAZ2xG5+ctVMSqzp0bJ02x/ITwbl0Xww/Xqgw5Fkpv+xGGg==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -321,9 +321,9 @@
     <div class="Header-item Header-item--full flex-justify-center d-lg-none position-relative">
       <div class="css-truncate css-truncate-target width-fit position-absolute left-0 right-0 text-center">
               <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-    <a class="Header-link" href="/UtkarshPathrabe">UtkarshPathrabe</a>
+    <a class="Header-link" href="/ncarlota">ncarlota</a>
     /
-    <a class="Header-link" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera">Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera</a>
+    <a class="Header-link" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment">Getting-and-Cleaning-Data-Week4-Assignment</a>
 
 </div>
     </div>
@@ -371,9 +371,9 @@
 
   <div role="none" class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera">This repository</span>
+    <span title="ncarlota/Getting-and-Cleaning-Data-Week4-Assignment">This repository</span>
   </div>
-    <a role="menuitem" class="dropdown-item" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/issues/new" data-ga-click="Header, create new issue" data-skip-pjax>
+    <a role="menuitem" class="dropdown-item" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/issues/new" data-ga-click="Header, create new issue" data-skip-pjax>
       New issue
     </a>
 
@@ -403,7 +403,7 @@
     border
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
-    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit " aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:7246712,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:39190576,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154B6A:20D81C:5D13DDCA&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;}}" data-hydro-click-hmac="c3fde9399f600652cd2eab678acadd5f81da44d18b86c7ec31aa763980c19c52">
+    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit " aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:39155886,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:39190576,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:14CF5A:200F37:5D13DCB3&quot;,&quot;originating_url&quot;:&quot;https://github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/blob/master/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment&quot;}}" data-hydro-click-hmac="d8829e02fafc5867c2e4693c052ed25fb329f4fe75bdfce16af91bff837fe235">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -429,7 +429,7 @@
         </div>
       </div>
 </summary>    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="qZVocbU/j4A7TvhNRkyRBUG+xhDU/6v5CKFJo+WATrG8Wq4f/Ue1gEyhpJLG6/7vmHm5NFB9giWt0bI3AP9QIg==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="379DpAATi+RS+iauZvatTflCAQOIGGfks4TZU2mmx0fKcIXKSGux5CUVenHmUcKnIIV+JwyaTjgW9CLHjNnZ1A==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -549,17 +549,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-06-26T22:34:25+01:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-06-26T22:30:02+01:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-06-26T23:04:25+01:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-06-26T23:00:02+01:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-06-27T02:04:25+01:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-06-27T02:00:02+01:00">
             in 4 hours
           </button>
         </li>
@@ -608,7 +608,7 @@
     <div role="none" class="dropdown-divider"></div>
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Vw1YhHchxP/YXaj7xw/4p5Y7dXbOQlmetG63CoDKnFFfZx21GeLnUIq3BNvzAazuR7SSg/pXfnZcwKkVBDDb1g==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vjF630BTbU8/x4u4EFrN5zXM5y5K8kfFQ95AmXjByo62Wz/uLpBO4G0tJ5gkVJmu5EMA237nYC2rcF6G/DuNCQ==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
@@ -653,17 +653,13 @@
 
 
 
-    <li hidden>
-      <include-fragment src="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/used_by_count">
-</include-fragment>
-    </li>
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="klCpPDBQosk1sdLGKt+k+NwaZ+H7gZKja6k4AyzaVllhSM0v4s/b/3gJfqBdATHG58cyrrPThpMUzhQAwPLiRw==" />      <input type="hidden" name="repository_id" value="25675637">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="LRtbTAKsYENCxxnWJlJ/54nOD0VDPkzcy8AgXn2Vwf7eAz9f0DMZdQ9/tbBRjOrZshNaCgtsWOy0pwxdkb114A==" />      <input type="hidden" name="repository_id" value="190748537">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:25675637,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154B6A:20D81C:5D13DDCA&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;,&quot;user_id&quot;:39190576}}" data-hydro-click-hmac="3be9f915bed32c0290dbb78a03af6e0eef1d936dfe474cf9da5018c14e47cba8" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:190748537,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:14CF5A:200F37:5D13DCB3&quot;,&quot;originating_url&quot;:&quot;https://github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/blob/master/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment&quot;,&quot;user_id&quot;:39190576}}" data-hydro-click-hmac="96c66bcacf06b3f180dc53bb1b4df7ef1fcaca9dd7b8a4dabe39408a1f26cb48" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
           </span>
@@ -725,53 +721,53 @@
         </details-menu>
       </details>
         <a class="social-count js-social-count"
-          href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/watchers"
-          aria-label="1 user is watching this repository">
-          1
+          href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/watchers"
+          aria-label="0 users are watching this repository">
+          0
         </a>
 </form>
   </li>
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZPdYrV2BdOFqMBj58ChqcD7+7nE8TXIu8ceciIuNJvRf6PyjzIiRnIbxs2gvm8OFN2RxsEpMlg5L6TNcb3t1Mg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="7ycxIKO5Ida4E4a8JGMlydoK6X7a4EGPJD9Dq8Gnnix2kq0F2gwuq/+2keUBTe/2kNyaPJE4tseh2RQNdhI3UA==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:25675637,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154B6A:20D81C:5D13DDCA&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;,&quot;user_id&quot;:39190576}}" data-hydro-click-hmac="64e158d0019cd3335f254f2af8587b77b7228c76bf41d065f3d03a1d5c098183" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar ncarlota/Getting-and-Cleaning-Data-Week4-Assignment" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:190748537,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:14CF5A:200F37:5D13DCB3&quot;,&quot;originating_url&quot;:&quot;https://github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/blob/master/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment&quot;,&quot;user_id&quot;:39190576}}" data-hydro-click-hmac="64e36ac9a754de783afa29ac0bb4b907f15cd200f5e36211bbbd6fb849e55dd2" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
-</button>        <a class="social-count js-social-count" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/stargazers"
-           aria-label="1 user starred this repository">
-           1
+</button>        <a class="social-count js-social-count" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/stargazers"
+           aria-label="0 users starred this repository">
+           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="iy1Dqr+egXby46ubrAOq9Fj3fCmDllpot6mXPx/tpOkCe7OufkesQdqnS4DL0oUUTZfAzCHIcYWCAPmYDjLabw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Dsqz83k1U2k53feygUMX52gy3AKj6uSYM5XYmg/UcSw8sFdOCcUnfo5z59AUHYbdtq9s0CwtA0YIP8ZbSdRUdQ==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:25675637,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154B6A:20D81C:5D13DDCA&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;,&quot;user_id&quot;:39190576}}" data-hydro-click-hmac="a55e75659b2da6c55db3790ae921a6f298ad6302c2b2e33bee26ed85764463de" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star ncarlota/Getting-and-Cleaning-Data-Week4-Assignment" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:190748537,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:14CF5A:200F37:5D13DCB3&quot;,&quot;originating_url&quot;:&quot;https://github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/blob/master/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment&quot;,&quot;user_id&quot;:39190576}}" data-hydro-click-hmac="d8721b2ac31562246a2f8dd8e98b34ceb02e6d3c7a55a65565c8d852739c4b93" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
-</button>        <a class="social-count js-social-count" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/stargazers"
-           aria-label="1 user starred this repository">
-          1
+</button>        <a class="social-count js-social-count" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/stargazers"
+           aria-label="0 users starred this repository">
+          0
         </a>
 </form>  </div>
 
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="6leVAu0TTYOG5J4EPB4CVTFxtsYJpk7EOhEwwJHyzIAIEqOvSj5BXqM5l02yDRJa/opMgALwbHMCm+Ic2mBEgA==" />
-            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:25675637,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154B6A:20D81C:5D13DDCA&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;,&quot;user_id&quot;:39190576}}" data-hydro-click-hmac="a1ea85f35c368496c895555cdb55e48790f4433000f9f2636d00df9b5871dc5b" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera to your account" aria-label="Fork your own copy of UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="35EgUl236kGMe+54Ub1FMNN3eF2DrLF0GA9/eLqNTbqEv0l6rKGH31ptDFuq8UbM3gDm/5h3AHJeEABFWe2Cxw==" />
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:190748537,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:14CF5A:200F37:5D13DCB3&quot;,&quot;originating_url&quot;:&quot;https://github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/blob/master/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment&quot;,&quot;user_id&quot;:39190576}}" data-hydro-click-hmac="5e6b941e8095653f694f15f9134eb5f497f0b3ec49d7abc5d68058213d3fa553" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of ncarlota/Getting-and-Cleaning-Data-Week4-Assignment to your account" aria-label="Fork your own copy of ncarlota/Getting-and-Cleaning-Data-Week4-Assignment to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
 </button></form>
-    <a href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/network/members" class="social-count"
-       aria-label="9 users forked this repository">
-      9
+    <a href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/network/members" class="social-count"
+       aria-label="0 users forked this repository">
+      0
     </a>
   </li>
 </ul>
 
       <h1 class="public ">
     <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=7246712" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/UtkarshPathrabe">UtkarshPathrabe</a></span><!--
+  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=39155886" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ncarlota">ncarlota</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera">Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera</a></strong>
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment">Getting-and-Cleaning-Data-Week4-Assignment</a></strong>
   
 
 </h1>
@@ -785,14 +781,14 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /ncarlota/Getting-and-Cleaning-Data-Week4-Assignment" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment">
       <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
 </a>  </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/issues" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/issues">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/issues" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/issues">
         <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
         <span itemprop="name">Issues</span>
         <span class="Counter">0</span>
@@ -800,7 +796,7 @@
 </a>    </span>
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/pulls" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/pulls">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/pulls" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/pulls">
       <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
       <span class="Counter">0</span>
@@ -808,21 +804,21 @@
 </a>  </span>
 
 
-    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/projects" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/projects">
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/projects" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/projects">
       <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
       Projects
       <span class="Counter" >0</span>
 </a>
 
-    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/wiki" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/wiki">
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/wiki" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/wiki">
       <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
       Wiki
 </a>
-    <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy /UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/security/advisories" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/security/advisories">
+    <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy /ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/security/advisories" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/security/advisories">
       <svg class="octicon octicon-shield" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 2l7-2 7 2v6.02C14 12.69 8.69 16 7 16c-1.69 0-7-3.31-7-7.98V2zm1 .75L7 1l6 1.75v5.268C13 12.104 8.449 15 7 15c-1.449 0-6-2.896-6-6.982V2.75zm1 .75L7 2v12c-1.207 0-5-2.482-5-5.985V3.5z"/></svg>
       Security
 </a>
-    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse people /UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/pulse" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/pulse">
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse people /ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/pulse" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/pulse">
       <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
       Insights
 </a>
@@ -835,47 +831,47 @@
        itemtype="http://schema.org/BreadcrumbList">
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /ncarlota/Getting-and-Cleaning-Data-Week4-Assignment" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment">
         <span itemprop="name">Code</span>
         <meta itemprop="position" content="1">
 </a>    </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/issues" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/issues">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/issues" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/issues">
           <span itemprop="name">Issues</span>
           <span class="Counter">0</span>
           <meta itemprop="position" content="2">
 </a>      </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/pulls" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/pulls">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/pulls" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/pulls">
         <span itemprop="name">Pull requests</span>
         <span class="Counter">0</span>
         <meta itemprop="position" content="3">
 </a>    </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/projects" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/projects">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/projects" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/projects">
           <span itemprop="name">Projects</span>
           <span class="Counter">0</span>
           <meta itemprop="position" content="4">
 </a>      </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_wiki /UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/wiki" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/wiki">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_wiki /ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/wiki" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/wiki">
           <span itemprop="name">Wiki</span>
           <meta itemprop="position" content="5">
 </a>      </span>
 
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy /UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/security/advisories" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/security/advisories">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy /ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/security/advisories" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/security/advisories">
         <span itemprop="name">Security</span>
         <meta itemprop="position" content="6">
 </a>
-      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/pulse" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/pulse">
+      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/pulse" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/pulse">
         Pulse
 </a>
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="community /UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/community" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/community">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="community /ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/community" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/community">
           Community
 </a>      </span>
 
@@ -892,9 +888,9 @@
 
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/97cb33d6222b308ff8646ebef2f3f63afb9448a1/UCI%20HAR%20Dataset/CodeBook.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/blob/69cf537309308c1822ccb6aa8a8cbc8ae3a87bc5/CodeBook.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:ac7714c580f279d1a0aec828cf390bf6 -->
+    <!-- blob contrib key: blob_contributors:v21:266d5a17c102369d206db192eb3ba59b -->
       
 
     <div class="d-flex flex-items-start flex-shrink-0 mb-2 flex-column flex-md-row">
@@ -909,7 +905,7 @@
     <span class="css-truncate-target">master</span>
   </summary>
 
-  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/ref-list/master/UCI%20HAR%20Dataset/CodeBook.md?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/ref-list/master/CodeBook.md?source_action=show&amp;source_controller=blob" preload>
     <include-fragment class="select-menu-loading-overlay anim-pulse">
       <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
     </include-fragment>
@@ -917,29 +913,29 @@
 </details>
 
         <div class="BtnGroup flex-shrink-0 d-md-none">
-          <a href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/find/master"
+          <a href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/find/master"
                 class="js-pjax-capture-input btn btn-sm BtnGroup-item"
                 data-pjax
                 data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value="UCI HAR Dataset/CodeBook.md" class="btn btn-sm BtnGroup-item">
+          <clipboard-copy value="CodeBook.md" class="btn btn-sm BtnGroup-item">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera"><span>Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset"><span>UCI HAR Dataset</span></a></span><span class="separator">/</span><strong class="final-path">CodeBook.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment"><span>Getting-and-Cleaning-Data-Week4-Assignment</span></a></span></span><span class="separator">/</span><strong class="final-path">CodeBook.md</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
-        <a href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/find/master"
+        <a href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/find/master"
               class="js-pjax-capture-input btn btn-sm BtnGroup-item"
               data-pjax
               data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value="UCI HAR Dataset/CodeBook.md" class="btn btn-sm BtnGroup-item">
+        <clipboard-copy value="CodeBook.md" class="btn btn-sm BtnGroup-item">
           Copy path
         </clipboard-copy>
       </div>
@@ -947,16 +943,45 @@
 
 
 
-    <include-fragment src="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/contributors/master/UCI%20HAR%20Dataset/CodeBook.md" class="Box Box--condensed commit-loader">
-      <div class="Box-body bg-blue-light f6">
-        Fetching contributors&hellip;
+    
+  <div class="Box Box--condensed d-flex flex-column flex-shrink-0">
+      <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
+        <span class="pr-md-4 f6">
+          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=39155886" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ncarlota"><img class="avatar" src="https://avatars1.githubusercontent.com/u/39155886?s=40&amp;v=4" width="20" height="20" alt="@ncarlota" /></a>
+          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=39155886" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ncarlota">ncarlota</a>
+            <span class="lh-default v-align-middle">
+              <a data-pjax="true" title="Create CodeBook.md" class="link-gray" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/commit/233f0d05e9af4bdb122ef7890e2d9f21db64b8db">Create CodeBook.md</a>
+            </span>
+        </span>
+        <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
+          <a class="pr-2 text-mono link-gray" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/commit/233f0d05e9af4bdb122ef7890e2d9f21db64b8db" data-pjax>233f0d0</a>
+          <relative-time datetime="2019-06-07T13:42:00Z">Jun 7, 2019</relative-time>
+        </span>
       </div>
 
-      <div class="Box-body d-flex flex-items-center" >
-          <img alt="" class="loader-loading mr-2" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
-        <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
-      </div>
-</include-fragment>
+    <div class="Box-body d-flex flex-items-center flex-auto f6 border-bottom-0 flex-wrap" >
+      <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
+        <summary class="btn-link" aria-haspopup="dialog">
+          <span><strong>1</strong> contributor</span>
+        </summary>
+        <details-dialog
+          class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+          aria-label="Users who have contributed to this file"
+          src="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/contributors/master/CodeBook.md/list" preload>
+          <div class="Box-header">
+            <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+              <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+            </button>
+            <h3 class="Box-title">
+              Users who have contributed to this file
+            </h3>
+          </div>
+          <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
+        </details-dialog>
+      </details>
+    </div>
+  </div>
+
 
 
 
@@ -966,17 +991,17 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
-      46 lines (24 sloc)
+      46 lines (23 sloc)
       <span class="file-info-divider"></span>
-    2.77 KB
+    2.63 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/raw/master/UCI%20HAR%20Dataset/CodeBook.md">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blame/master/UCI%20HAR%20Dataset/CodeBook.md">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/commits/master/UCI%20HAR%20Dataset/CodeBook.md">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/raw/master/CodeBook.md">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/blame/master/CodeBook.md">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/commits/master/CodeBook.md">History</a>
     </div>
 
 
@@ -988,13 +1013,13 @@
                 <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
             </a>
 
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/edit/master/UCI%20HAR%20Dataset/CodeBook.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Boo+xKh7e5HXESL03vuMnAryMtVkMl04ixklzvLpRPUtXqPIIcjSZ0MpMvCc6VHs7wlj3sV0EMUnmHgJHMGLkA==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/edit/master/CodeBook.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZBzUlDMs/CDu5iopnaRMYBkfTcKcxHrxOjnGKF+qVCcNpN1l2Oh7yk3Cxvr0y3WWlmZjuqG1sgi8lD2HhOXTxw==" />
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
                 aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/delete/master/UCI%20HAR%20Dataset/CodeBook.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="R9PvE3zYRNqbhwV8avXeaCNP3bwX02h/L/+zB9YeeqrOXsu+UaeijuGHDRbWxxp8IkS+oit798wsWUkSZ+dzsQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/delete/master/CodeBook.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5NONM10P8VxBR4U3+1JuCvmsmfTKoSlxQlvCmRHIUuGezRYN2Qubn6AkDG5XGQw14mpOC7RNCTuLzxtKDR/pXg==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1008,55 +1033,29 @@
 
       
   <div id="readme" class="Box-body readme blob instapaper_body js-code-block-container">
-    <article class="markdown-body entry-content p-3 p-md-6" itemprop="text"><h1><a id="user-content-course-project-code-book" class="anchor" aria-hidden="true" href="#course-project-code-book"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Course Project Code Book</h1>
+    <article class="markdown-body entry-content p-3 p-md-6" itemprop="text"><h1><a id="user-content-course-project---code-book" class="anchor" aria-hidden="true" href="#course-project---code-book"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Course Project - Code Book</h1>
 <p>Source of the original data: <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" rel="nofollow">https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</a></p>
 <p>Original description: <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones" rel="nofollow">http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones</a></p>
 <p>The attached R script (run_analysis.R) performs the following to clean up the data:</p>
-<ul>
-<li>
-<p>Merges the training and test sets to create one data set, namely train/X_train.txt with test/X_test.txt, the result of which is a 10299x561 data frame, as in the original description ("Number of Instances: 10299" and "Number of Attributes: 561"), train/subject_train.txt with test/subject_test.txt, the result of which is a 10299x1 data frame with subject IDs, and train/y_train.txt with test/y_test.txt, the result of which is also a 10299x1 data frame with activity IDs.</p>
-</li>
-<li>
-<p>Reads features.txt and extracts only the measurements on the mean and standard deviation for each measurement. The result is a 10299x66 data frame, because only 66 out of 561 attributes are measurements on the mean and standard deviation. All measurements appear to be floating point numbers in the range (-1, 1).</p>
-</li>
-<li>
-<p>Reads activity_labels.txt and applies descriptive activity names to name the activities in the data set:</p>
-<pre><code>  walking  
-  
-  walkingupstairs  
-  
-  walkingdownstairs  
-  
-  sitting  
-  
-  standing  
-  
-  laying  
-</code></pre>
-</li>
-<li>
-<p>The script also appropriately labels the data set with descriptive names: all feature names (attributes) and activity names are converted to lower case, underscores and brackets () are removed. Then it merges the 10299x66 data frame containing features with 10299x1 data frames containing activity labels and subject IDs. The result is saved as merged_clean_data.txt, a 10299x68 data frame such that the first column contains subject IDs, the second column activity names, and the last 66 columns are measurements. Subject IDs are integers between 1 and 30 inclusive. The names of the attributes are similar to the following:</p>
-<pre><code>  tbodyacc-mean-x   
-  
-  tbodyacc-mean-y   
-  
-  tbodyacc-mean-z   
-  
-  tbodyacc-std-x  
-  
-  tbodyacc-std-y  
-  
-  tbodyacc-std-z  
-  
-  tgravityacc-mean-x  
-  
-  tgravityacc-mean-y  
-</code></pre>
-</li>
-<li>
-<p>Finally, the script creates a 2nd, independent tidy data set with the average of each measurement for each activity and each subject. The result is saved as data_set_with_the_averages.txt, a 180x68 data frame, where as before, the first column contains subject IDs, the second column contains activity names (see below), and then the averages for each of the 66 attributes are in columns 3...68. There are 30 subjects and 6 activities, thus 180 rows in this data set with averages.</p>
-</li>
-</ul>
+<p>•	Merges the training and test sets to create one data set, namely train/X_train.txt with test/X_test.txt, the result of which is a 10299x561 data frame, as in the original description ("Number of Instances: 10299" and "Number of Attributes: 561"), train/subject_train.txt with test/subject_test.txt, the result of which is a 10299x1 data frame with subject IDs, and train/y_train.txt with test/y_test.txt, the result of which is also a 10299x1 data frame with activity IDs.</p>
+<p>•	Reads features.txt and extracts only the measurements on the mean and standard deviation for each measurement. The result is a 10299x66 data frame, because only 66 out of 561 attributes are measurements on the mean and standard deviation. All measurements appear to be floating point numbers in the range (-1, 1).</p>
+<p>•	Reads activity_labels.txt and applies descriptive activity names to name the activities in the data set:</p>
+<p>•	  walking</p>
+<p>•	  walkingupstairs</p>
+<p>•	  walkingdownstairs</p>
+<p>•	  sitting</p>
+<p>•	  standing</p>
+<p>•	  laying</p>
+<p>•	The script also appropriately labels the data set with descriptive names: all feature names (attributes) and activity names are converted to lower case, underscores and brackets () are removed. Then it merges the 10299x66 data frame containing features with 10299x1 data frames containing activity labels and subject IDs. The result is saved as merged_clean_data.txt, a 10299x68 data frame such that the first column contains subject IDs, the second column activity names, and the last 66 columns are measurements. Subject IDs are integers between 1 and 30 inclusive. The names of the attributes are similar to the following:</p>
+<p>•	  tbodyacc-mean-x</p>
+<p>•	  tbodyacc-mean-y</p>
+<p>•	  tbodyacc-mean-z</p>
+<p>•	  tbodyacc-std-x</p>
+<p>•	  tbodyacc-std-y</p>
+<p>•	  tbodyacc-std-z</p>
+<p>•	  tgravityacc-mean-x</p>
+<p>•	  tgravityacc-mean-y</p>
+<p>•	Finally, the script creates a second, independent tidy data set with the average of each measurement for each activity and each subject. The result is saved as data_set_with_the_averages.txt, a 180x68 data frame, where as before, the first column contains subject IDs, the second column contains activity names (see below), and then the averages for each of the 66 attributes are in columns 3...68. There are 30 subjects and 6 activities, thus 180 rows in this data set with averages.</p>
 </article>
   </div>
 
@@ -1074,12 +1073,12 @@
   </details>
 
     <div class="Popover anim-scale-in js-tagsearch-popover"
-     hidden data-tagsearch-url="/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/find-symbols"
+     hidden data-tagsearch-url="/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/find-symbols"
      data-tagsearch-ref="master"
-     data-tagsearch-path="UCI HAR Dataset/CodeBook.md"
+     data-tagsearch-path="CodeBook.md"
      data-tagsearch-lang="Markdown"
-     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:25675637,&quot;ref&quot;:&quot;master&quot;,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:154B6A:20D81C:5D13DDCA&quot;,&quot;originating_url&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/UCI%20HAR%20Dataset/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/UtkarshPathrabe/Getting-And-Cleaning-Data-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/tree/master/UCI%20HAR%20Dataset&quot;,&quot;user_id&quot;:39190576}}"
-     data-hydro-click-hmac="99a4c6a6c06bea37244fdc809bec5f3dd79f9af1dac06e624dcbeac52c781152">
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:190748537,&quot;ref&quot;:&quot;master&quot;,&quot;client_id&quot;:&quot;434988408.1557928706&quot;,&quot;originating_request_id&quot;:&quot;D050:30E97:14CF5A:200F37:5D13DCB3&quot;,&quot;originating_url&quot;:&quot;https://github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment/blob/master/CodeBook.md&quot;,&quot;referrer&quot;:&quot;https://github.com/ncarlota/Getting-and-Cleaning-Data-Week4-Assignment&quot;,&quot;user_id&quot;:39190576}}"
+     data-hydro-click-hmac="6069d3b346aa1a816b4be757487ccfaf168878fed08b521a0fce12e85bbb3769">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mx-auto Box box-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto">
     </div>
@@ -1102,7 +1101,7 @@
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.41407s from unicorn-68886457ff-kztjp">GitHub</span>, Inc.</li>
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.70988s from unicorn-67f74489b4-rf728">GitHub</span>, Inc.</li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
